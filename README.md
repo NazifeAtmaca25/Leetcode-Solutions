@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Trie
 |  |
 | ------- |
