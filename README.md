@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [2784-check-if-array-is-good](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Trie
