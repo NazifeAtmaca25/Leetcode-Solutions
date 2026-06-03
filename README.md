@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
