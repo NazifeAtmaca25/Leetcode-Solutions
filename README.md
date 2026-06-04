@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
