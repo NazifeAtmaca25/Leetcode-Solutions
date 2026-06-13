@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [3838-weighted-word-mapping](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
