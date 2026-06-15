@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
