@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [3360-stone-removal-game](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/NazifeAtmaca25/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
